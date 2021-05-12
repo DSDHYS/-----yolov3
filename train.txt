@@ -1,0 +1,1652 @@
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000533.jpg 289,937,657,1344,2 1,866,286,1182,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000541.jpg 296,628,681,953,2 243,1169,412,1208,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000543.jpg 95,675,727,1008,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000547.jpg 1171,237,1288,639,2 997,413,1115,814,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000549.jpg 1063,289,1233,458,2 984,529,1185,737,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000552.jpg 596,606,1111,760,2 683,272,1201,436,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000553.jpg 1062,234,1348,822,2 808,181,1084,753,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000733.jpg 417,730,791,1328,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000739.jpg 453,493,687,1195,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_000825.jpg 572,273,904,939,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1000.jpg 0,0,190,192,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1001.jpg 168,2,368,193,6 0,45,194,193,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1002.jpg 176,0,316,187,6 22,108,164,187,6 18,0,251,138,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1003.jpg 10,0,156,182,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1007.jpg 315,262,503,350,6 93,17,306,350,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1008.jpg 215,49,336,235,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1009.jpg 125,41,179,106,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1010.jpg 37,146,358,315,6 358,127,519,265,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1011.jpg 236,16,388,436,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1012.jpg 77,124,338,180,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1013.jpg 146,83,533,274,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1014.jpg 404,260,631,398,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1015.jpg 2,1,371,244,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1016.jpg 173,92,830,619,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1017.jpg 0,42,246,298,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1018.jpg 1,23,652,476,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1019.jpg 202,66,314,147,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1020.jpg 31,43,841,597,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1021.jpg 108,62,233,112,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1022.jpg 438,66,574,296,6 144,231,331,582,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1023.jpg 279,34,365,180,6 89,139,208,363,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1028.jpg 446,132,595,392,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1029.jpg 0,6,208,111,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1030.jpg 183,37,329,215,6 49,0,116,145,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1031.jpg 1,1,786,1023,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1032.jpg 141,19,189,212,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1035.jpg 1,0,173,126,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1040.jpg 170,26,227,190,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1041.jpg 109,2,302,186,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1042.jpg 623,130,953,287,6 142,88,433,264,6 1,266,286,588,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1043.jpg 340,331,396,741,6 198,235,260,728,6 423,172,681,419,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1044.jpg 13,192,460,315,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1045.jpg 1,0,230,207,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1046.jpg 165,81,270,197,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1047.jpg 24,20,605,416,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1048.jpg 0,0,199,225,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1049.jpg 393,257,455,370,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1050.jpg 277,289,384,423,6 389,274,558,382,6 331,12,493,193,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1051.jpg 195,131,413,239,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1052.jpg 160,27,272,300,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1054.jpg 64,1,305,203,6 3,16,58,59,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1055.jpg 0,1,1023,696,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1058.jpg 175,223,262,302,6 24,44,57,84,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1060.jpg 203,87,281,129,6 145,94,207,180,6 2,101,95,143,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1061.jpg 146,1,305,169,6 1,1,139,203,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1062.jpg 84,38,357,239,6 0,125,227,232,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1063.jpg 1,346,711,620,6 1,77,232,280,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1065.jpg 0,1,492,334,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1067.jpg 523,97,676,594,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1068.jpg 64,41,453,509,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1070.jpg 78,164,355,301,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1072.jpg 14,0,261,115,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1073.jpg 173,102,434,868,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1074.jpg 556,500,777,561,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1075.jpg 471,276,930,494,6 107,306,549,609,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1076.jpg 0,0,454,296,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1077.jpg 25,142,298,250,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1078.jpg 244,22,441,515,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1079.jpg 81,34,483,246,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1080.jpg 23,5,76,115,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1081.jpg 0,141,415,198,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1082.jpg 96,26,163,216,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1083.jpg 166,5,289,283,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1084.jpg 128,16,214,199,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1085.jpg 611,144,710,507,6 478,110,584,510,6 314,147,470,509,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1086.jpg 43,210,721,428,6 84,269,789,753,6 313,45,587,286,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1087.jpg 73,0,494,546,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1088.jpg 274,19,497,424,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1089.jpg 341,139,541,474,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1092.jpg 84,9,392,284,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1094.jpg 316,4,438,373,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1096.jpg 210,61,403,325,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1097.jpg 1,134,200,192,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1099.jpg 169,48,273,138,6 135,92,174,151,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1100.jpg 0,79,455,228,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1101.jpg 158,125,373,320,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1103.jpg 140,95,351,259,6 200,178,272,268,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1104.jpg 93,38,166,109,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1105.jpg 235,47,269,78,6 163,40,195,59,6 27,79,84,93,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1108.jpg 7,59,89,110,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1109.jpg 240,1,499,183,6 268,183,342,364,6 15,9,138,182,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1110.jpg 43,78,212,178,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1111.jpg 280,84,380,161,6 253,171,417,250,6 46,93,200,218,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1113.jpg 1,43,477,256,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1114.jpg 91,139,291,172,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1115.jpg 202,2,246,270,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1116.jpg 78,75,170,271,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1117.jpg 61,60,164,89,6 74,103,182,143,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1118.jpg 38,99,462,312,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1123.jpg 16,5,154,113,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1124.jpg 56,62,87,137,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1125.jpg 90,57,148,121,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11254.jpg 148,39,425,349,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11255.jpg 202,53,531,571,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11256.jpg 135,76,439,280,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11257.jpg 146,84,522,389,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11258.jpg 447,77,758,360,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11259.jpg 23,46,333,366,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1126.jpg 92,18,348,56,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11260.jpg 169,93,416,336,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11261.jpg 71,54,358,320,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11262.jpg 73,1,446,355,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11263.jpg 126,17,412,393,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11264.jpg 155,3,483,326,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11265.jpg 126,41,225,224,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11266.jpg 211,24,396,447,3 29,2,487,447,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11267.jpg 86,80,262,334,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11268.jpg 49,113,339,397,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11269.jpg 59,1,253,301,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1127.jpg 9,96,374,196,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1129.jpg 191,233,272,315,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1130.jpg 47,188,154,299,6 47,40,154,154,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1131.jpg 0,34,499,322,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1134.jpg 49,80,125,183,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1135.jpg 111,97,387,394,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1138.jpg 162,3,359,311,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11388.jpg 397,684,644,919,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11389.jpg 148,225,570,736,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1139.jpg 126,143,365,226,6 37,72,189,151,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11391.jpg 6,99,283,621,3 475,111,760,568,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11392.jpg 370,517,659,818,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11394.jpg 394,367,676,798,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11395.jpg 320,545,658,831,3 388,1,839,173,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11398.jpg 287,476,623,716,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11399.jpg 686,42,943,375,3 0,292,651,601,3 403,21,588,181,3 608,46,731,205,3 215,108,415,270,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1140.jpg 105,118,355,197,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11401.jpg 32,82,362,543,3 341,305,502,565,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11403.jpg 430,471,701,738,3 10,858,267,1022,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11405.jpg 1,437,693,889,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11406.jpg 0,59,137,334,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11407.jpg 1,303,541,889,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11408.jpg 166,471,734,812,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11410.jpg 151,361,700,856,3 1,1,929,651,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11411.jpg 184,163,371,338,3 183,320,371,526,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11412.jpg 2,4,433,439,3 334,6,683,378,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11413.jpg 225,7,329,268,3 159,183,276,307,3 310,181,421,304,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11414.jpg 43,31,491,458,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11415.jpg 1,9,224,497,3 217,163,443,502,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11416.jpg 238,1,526,376,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11417.jpg 136,1,600,615,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11418.jpg 171,339,340,477,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11419.jpg 214,217,676,658,3 701,12,967,474,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1142.jpg 0,146,458,247,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11421.jpg 131,52,347,398,3 134,374,319,628,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11423.jpg 49,55,658,599,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11427.jpg 109,24,409,286,3 70,2,157,112,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11428.jpg 25,1,825,578,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11429.jpg 109,86,406,412,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1143.jpg 147,132,359,251,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11430.jpg 29,17,178,307,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11432.jpg 40,35,407,356,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11433.jpg 19,20,185,337,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11434.jpg 3,2,314,344,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11435.jpg 79,9,279,357,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11436.jpg 142,24,430,360,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11438.jpg 90,52,211,283,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11439.jpg 68,19,263,361,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11441.jpg 74,46,217,327,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11442.jpg 62,19,273,398,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11443.jpg 39,29,192,332,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11445.jpg 151,1,363,318,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11446.jpg 92,111,225,347,3 285,112,416,348,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11447.jpg 63,0,335,325,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11448.jpg 63,8,263,361,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11449.jpg 53,42,259,377,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1145.jpg 168,88,429,257,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11450.jpg 51,1,243,364,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11451.jpg 52,1,225,345,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11452.jpg 52,0,234,359,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11453.jpg 39,11,225,364,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11454.jpg 47,28,231,385,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11455.jpg 85,1,524,552,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11456.jpg 153,15,638,468,3 99,2,227,156,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11457.jpg 56,0,255,375,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11458.jpg 113,104,409,578,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11460.jpg 154,13,339,369,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11462.jpg 51,0,241,365,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11463.jpg 177,6,316,386,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11464.jpg 45,2,251,390,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11465.jpg 51,4,293,363,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11466.jpg 77,21,470,327,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11467.jpg 30,1,221,360,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11468.jpg 159,6,307,400,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11469.jpg 83,44,348,239,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11470.jpg 46,1,226,332,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11471.jpg 172,1,350,351,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11472.jpg 34,7,309,355,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11473.jpg 61,0,223,332,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11476.jpg 69,5,268,386,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11477.jpg 68,57,283,440,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1148.jpg 9,12,250,281,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11482.jpg 109,0,244,335,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11483.jpg 53,1,263,372,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11485.jpg 94,39,268,355,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11486.jpg 63,10,725,507,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11487.jpg 58,4,239,352,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11488.jpg 140,33,323,385,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11489.jpg 153,23,338,478,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11491.jpg 161,11,688,484,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11492.jpg 33,9,225,351,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11493.jpg 54,23,257,354,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11494.jpg 217,181,629,683,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11495.jpg 142,22,432,359,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11496.jpg 144,84,355,403,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11497.jpg 62,6,254,303,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11498.jpg 62,0,263,383,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11499.jpg 28,1,255,291,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1150.jpg 399,284,486,332,6 276,118,352,193,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11501.jpg 69,0,232,312,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11502.jpg 24,1,227,386,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11503.jpg 100,112,372,510,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11504.jpg 57,10,290,327,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11505.jpg 186,1,379,323,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11506.jpg 209,153,272,221,3 242,232,328,301,3 77,203,186,276,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11507.jpg 192,128,498,567,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11508.jpg 31,15,303,393,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11509.jpg 50,1,254,389,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1151.jpg 88,138,404,207,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11510.jpg 14,1,290,361,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11511.jpg 70,1,240,345,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11512.jpg 24,12,239,358,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11513.jpg 415,286,743,592,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11514.jpg 84,28,517,416,3 34,0,151,152,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11516.jpg 1,9,586,445,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11517.jpg 93,25,255,282,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11518.jpg 56,90,494,322,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11519.jpg 57,80,456,370,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11520.jpg 171,43,397,210,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11521.jpg 269,39,438,299,3 119,4,264,299,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11523.jpg 248,67,490,281,3 14,73,232,301,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11524.jpg 98,76,419,374,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11525.jpg 112,41,292,370,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11526.jpg 7,29,536,446,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11527.jpg 0,5,105,414,3 101,13,311,422,3 292,119,451,410,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11528.jpg 99,19,366,404,3 1,152,27,369,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11529.jpg 58,154,346,506,3 392,92,543,395,3 208,54,419,191,3 1,119,117,270,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1153.jpg 161,175,254,365,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11530.jpg 91,0,262,376,3 266,31,476,376,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11531.jpg 106,1,328,432,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11532.jpg 64,118,398,479,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11533.jpg 17,22,412,469,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11535.jpg 129,26,278,243,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11536.jpg 99,28,471,450,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11539.jpg 72,6,363,376,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1154.jpg 193,56,481,309,6 21,5,358,255,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11540.jpg 78,23,206,252,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11541.jpg 1,1,386,339,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11542.jpg 21,58,207,187,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11543.jpg 62,38,177,146,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11544.jpg 117,91,236,299,3 234,80,345,281,3 180,63,260,122,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11545.jpg 23,20,231,431,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11546.jpg 145,149,484,647,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11547.jpg 138,35,427,373,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11548.jpg 174,107,852,657,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11549.jpg 99,24,479,273,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11550.jpg 281,185,469,358,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11553.jpg 57,81,222,317,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11554.jpg 99,84,200,250,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11556.jpg 73,272,471,680,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11557.jpg 145,19,238,181,3 51,21,145,183,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11558.jpg 79,42,436,397,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11559.jpg 120,8,355,503,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1156.jpg 233,90,382,185,6 134,97,223,179,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11560.jpg 121,245,644,664,3 372,203,799,495,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11561.jpg 12,34,167,263,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11562.jpg 63,6,333,494,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11563.jpg 137,56,354,473,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11564.jpg 58,2,451,600,3 1,1,499,354,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11566.jpg 48,75,651,828,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11567.jpg 86,52,257,310,3 307,211,447,307,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11568.jpg 40,104,299,292,3 312,22,460,280,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11569.jpg 60,111,412,490,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11570.jpg 75,32,431,441,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11572.jpg 226,0,463,573,3 29,0,251,557,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11573.jpg 0,0,513,403,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11576.jpg 92,1,390,562,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11578.jpg 14,40,475,366,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11579.jpg 130,49,561,362,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1158.jpg 88,129,311,251,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11580.jpg 83,23,482,299,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11582.jpg 146,68,407,366,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11583.jpg 86,90,243,369,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11584.jpg 16,80,211,285,3 224,42,411,289,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11585.jpg 152,96,633,398,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11586.jpg 80,112,339,475,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11588.jpg 47,100,268,350,3 328,26,546,347,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11589.jpg 104,14,419,433,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1159.jpg 152,45,302,158,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11590.jpg 76,45,255,305,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11591.jpg 1,33,411,347,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11592.jpg 25,31,193,276,3 289,1,536,320,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11593.jpg 97,18,185,171,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11595.jpg 19,24,188,345,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11596.jpg 127,25,389,314,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11597.jpg 199,19,424,433,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11598.jpg 33,2,427,492,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11599.jpg 294,16,540,398,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1160.jpg 84,49,185,100,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11601.jpg 105,27,404,305,3 70,0,152,115,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11603.jpg 74,56,198,287,3 283,61,417,300,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11605.jpg 93,49,281,340,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11606.jpg 198,27,360,292,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11607.jpg 1,182,438,539,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11608.jpg 29,32,186,226,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11609.jpg 236,0,370,240,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1161.jpg 165,122,499,353,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11610.jpg 141,168,268,403,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11611.jpg 69,67,288,465,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11612.jpg 31,101,136,288,3 42,0,400,252,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11613.jpg 102,31,282,327,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11614.jpg 37,118,202,369,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11616.jpg 156,22,365,398,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11618.jpg 202,2,582,412,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1162.jpg 166,84,214,141,6 138,178,189,212,6 13,8,321,312,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11620.jpg 177,14,445,442,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11621.jpg 177,131,558,721,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11623.jpg 8,83,174,352,3 186,56,320,304,3 327,51,465,280,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11624.jpg 47,2,220,299,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11625.jpg 276,95,721,922,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11626.jpg 350,229,532,566,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11627.jpg 35,29,192,282,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11629.jpg 92,252,315,546,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1163.jpg 147,127,352,186,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11630.jpg 55,143,392,480,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11631.jpg 376,195,830,505,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11632.jpg 214,281,491,577,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11638.jpg 163,335,374,631,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1164.jpg 113,173,283,269,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11640.jpg 208,295,429,590,3 196,1,297,114,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11642.jpg 169,349,442,654,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11643.jpg 94,327,403,559,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11648.jpg 45,17,421,665,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11649.jpg 1,50,249,312,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11650.jpg 101,15,435,690,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11651.jpg 305,220,642,775,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11652.jpg 184,290,682,701,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11653.jpg 196,274,547,834,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11654.jpg 195,198,540,739,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11655.jpg 202,290,796,630,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11656.jpg 241,264,499,700,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11657.jpg 206,224,502,715,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11662.jpg 91,389,669,726,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_11663.jpg 83,258,543,754,3
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1167.jpg 16,213,452,332,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1168.jpg 0,100,397,224,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1169.jpg 210,41,283,264,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1170.jpg 74,122,154,254,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1171.jpg 229,159,401,255,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1172.jpg 225,33,296,130,6 72,113,203,149,6 175,160,299,251,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1173.jpg 172,112,360,256,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1174.jpg 92,67,155,191,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1177.jpg 119,156,388,227,6 340,3,479,50,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1178.jpg 175,122,364,226,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1179.jpg 212,73,282,197,6 126,59,215,165,6 56,69,154,185,6 64,203,182,284,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1180.jpg 26,15,90,230,6 0,110,184,272,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1181.jpg 88,130,196,180,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1182.jpg 191,112,481,237,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1183.jpg 866,382,992,531,6 321,465,624,691,6 565,321,705,465,6 264,330,417,430,6 48,142,414,240,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1184.jpg 138,57,215,110,6 26,28,97,108,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1185.jpg 208,41,392,431,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1186.jpg 64,131,452,293,6 224,0,450,74,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1187.jpg 0,3,236,171,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_131.jpg 1,188,746,624,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_132.jpg 46,10,454,372,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_134.jpg 119,126,545,479,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_135.jpg 65,53,335,203,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_138.jpg 7,125,694,607,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_139.jpg 4,24,272,208,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_140.jpg 0,67,294,206,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_141.jpg 1,248,776,731,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_143.jpg 88,87,564,390,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_145.jpg 14,55,482,426,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_150.jpg 15,31,273,154,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15030.jpg 1,1,725,597,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15031.jpg 34,9,277,253,1 0,19,51,108,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15033.jpg 6,13,385,248,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15034.jpg 54,1,672,487,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15035.jpg 40,10,384,375,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15036.jpg 34,32,495,528,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15037.jpg 34,10,499,584,1 375,1,499,201,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15038.jpg 0,16,161,226,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15039.jpg 1,47,468,459,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15041.jpg 1,2,654,548,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15043.jpg 35,2,312,313,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15044.jpg 18,29,468,392,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15045.jpg 1,17,503,426,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15046.jpg 0,79,95,157,1 94,58,188,162,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15047.jpg 1,1,498,366,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15048.jpg 1,15,630,465,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15049.jpg 47,1,596,437,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15050.jpg 0,1,460,336,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15051.jpg 8,24,317,328,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15054.jpg 107,64,463,385,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15057.jpg 1,44,474,505,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15058.jpg 75,1,477,321,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15059.jpg 1,17,218,198,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15061.jpg 3,45,395,300,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15062.jpg 6,1,554,386,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15063.jpg 40,1,240,81,1 204,2,558,144,1 6,224,336,420,1 292,177,579,425,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15064.jpg 11,19,308,215,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15065.jpg 43,153,415,445,1 368,2,498,344,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15066.jpg 12,14,249,220,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15067.jpg 6,1,500,368,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15068.jpg 29,1,389,414,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15069.jpg 2,26,387,322,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15070.jpg 100,1,377,290,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15071.jpg 6,1,550,434,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15072.jpg 1,22,332,321,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15074.jpg 52,37,204,224,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15077.jpg 17,31,449,468,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15078.jpg 1,25,444,394,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15079.jpg 0,12,295,291,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15080.jpg 2,16,393,379,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15081.jpg 57,39,478,325,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15082.jpg 44,29,457,354,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15083.jpg 101,1,499,332,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15085.jpg 1,19,427,358,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15086.jpg 185,51,428,335,1 1,96,215,378,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15087.jpg 4,14,401,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15088.jpg 1,16,542,472,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15089.jpg 56,54,447,290,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15090.jpg 31,3,416,411,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15091.jpg 3,11,347,332,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15092.jpg 34,38,451,328,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15093.jpg 1,32,236,280,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15095.jpg 1,54,431,423,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15097.jpg 31,2,556,414,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15098.jpg 71,14,228,196,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15099.jpg 53,2,330,276,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15101.jpg 38,33,473,527,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15102.jpg 1,1,554,448,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15103.jpg 27,80,260,339,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15104.jpg 1,25,228,329,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15105.jpg 1,1,352,269,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15106.jpg 5,1,400,299,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15108.jpg 5,16,359,286,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15110.jpg 33,68,427,364,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15112.jpg 2,8,202,257,1 125,87,299,285,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15113.jpg 1,1,461,434,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15114.jpg 27,2,478,345,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15115.jpg 0,13,670,467,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15116.jpg 107,47,653,524,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15117.jpg 56,16,421,274,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15119.jpg 44,35,117,158,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15120.jpg 30,15,546,565,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15122.jpg 12,45,243,208,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15123.jpg 39,0,542,478,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15124.jpg 154,9,389,234,1 74,229,364,457,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15126.jpg 119,345,427,602,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15127.jpg 1,292,547,757,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15128.jpg 41,223,504,737,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15129.jpg 135,314,470,588,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_152.jpg 97,27,808,602,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15249.jpg 4,83,488,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15250.jpg 1,36,483,664,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15251.jpg 22,22,261,216,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15253.jpg 31,28,448,320,1 1,2,220,127,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15254.jpg 33,30,480,315,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15255.jpg 0,1,499,553,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15256.jpg 48,22,441,351,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15257.jpg 0,1,456,291,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15259.jpg 0,106,365,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15260.jpg 1,10,499,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15261.jpg 1,19,324,230,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15262.jpg 28,38,499,335,1 368,1,499,96,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15263.jpg 34,12,130,198,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15264.jpg 1,29,499,358,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15265.jpg 3,37,128,161,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15266.jpg 0,0,499,447,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15267.jpg 0,72,499,466,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15268.jpg 0,44,490,494,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15271.jpg 0,0,230,218,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15272.jpg 1,16,254,187,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15274.jpg 1,21,497,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15276.jpg 84,18,436,659,1 0,313,144,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15277.jpg 1,47,499,666,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15279.jpg 17,9,336,299,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15280.jpg 34,22,432,549,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15281.jpg 91,126,440,400,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15282.jpg 0,7,388,299,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15283.jpg 0,53,497,558,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15286.jpg 8,35,390,305,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15287.jpg 21,75,474,359,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15288.jpg 3,0,439,664,1 411,227,499,400,1 390,268,443,444,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15289.jpg 17,44,498,666,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15292.jpg 2,53,444,343,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15293.jpg 24,0,151,218,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15294.jpg 34,100,435,379,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15295.jpg 27,74,410,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15296.jpg 2,3,371,239,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15297.jpg 1,137,496,717,1 252,0,496,201,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15298.jpg 17,0,159,218,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15299.jpg 2,88,497,506,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_153.jpg 144,65,686,593,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15300.jpg 2,0,499,613,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15301.jpg 75,147,444,590,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15302.jpg 1,1,309,329,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15303.jpg 24,37,492,354,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15304.jpg 2,26,249,218,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15306.jpg 16,22,163,181,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15307.jpg 61,44,490,605,1 4,134,65,407,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15308.jpg 43,38,177,186,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15309.jpg 1,55,496,767,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15311.jpg 2,0,449,318,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15312.jpg 2,1,499,499,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15313.jpg 0,1,167,190,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15314.jpg 1,1,163,218,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15315.jpg 61,1,497,622,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15317.jpg 1,1,499,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15318.jpg 1,0,293,219,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15319.jpg 1,0,359,459,1 113,170,352,420,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15320.jpg 12,87,375,496,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15321.jpg 1,28,341,290,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15322.jpg 32,14,151,128,1 153,30,327,356,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15323.jpg 1,63,499,447,1 167,1,358,98,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15325.jpg 0,14,163,215,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15328.jpg 11,1,497,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15329.jpg 0,1,497,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15331.jpg 52,1,272,373,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15332.jpg 0,1,497,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15333.jpg 0,37,229,164,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15334.jpg 1,11,497,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15335.jpg 1,1,475,322,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15337.jpg 0,27,499,342,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15340.jpg 0,51,458,366,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15341.jpg 1,0,472,295,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15343.jpg 8,19,382,338,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15344.jpg 1,0,479,348,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15348.jpg 1,58,488,365,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15349.jpg 8,16,166,186,1 165,6,274,122,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15350.jpg 1,87,465,450,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15352.jpg 1,2,292,219,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15353.jpg 58,60,490,320,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15355.jpg 9,1,140,210,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15357.jpg 23,56,310,220,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15358.jpg 0,164,497,601,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15359.jpg 27,2,269,215,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15360.jpg 35,0,499,302,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15361.jpg 1,7,292,219,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15363.jpg 0,1,164,174,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15365.jpg 8,39,421,337,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15366.jpg 0,1,499,505,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15369.jpg 2,35,291,186,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15370.jpg 3,31,479,331,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15371.jpg 0,57,499,291,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15372.jpg 25,0,371,326,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15373.jpg 1,65,499,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15374.jpg 1,60,497,647,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15375.jpg 32,1,441,281,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15377.jpg 1,2,499,322,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15378.jpg 8,0,276,193,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15380.jpg 0,23,164,219,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15382.jpg 1,31,158,182,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15383.jpg 1,50,178,218,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15385.jpg 2,0,292,219,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15386.jpg 3,40,443,329,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15390.jpg 15,7,199,218,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15392.jpg 0,1,497,638,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15393.jpg 18,2,470,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15394.jpg 11,0,292,179,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15397.jpg 1,123,477,637,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15398.jpg 41,1,451,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15399.jpg 1,2,292,219,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15400.jpg 25,0,169,107,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15401.jpg 1,17,497,581,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15403.jpg 1,1,499,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15404.jpg 2,1,450,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15405.jpg 0,119,499,581,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15406.jpg 23,20,286,298,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15407.jpg 3,18,453,353,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15408.jpg 1,0,290,214,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15409.jpg 4,21,494,321,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15410.jpg 5,49,459,524,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15411.jpg 1,0,481,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15412.jpg 3,67,410,484,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15414.jpg 2,0,499,355,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15415.jpg 2,2,366,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15417.jpg 2,0,292,184,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15420.jpg 14,0,483,357,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15421.jpg 10,0,293,209,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15422.jpg 58,1,394,664,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15423.jpg 0,27,266,201,1 28,0,87,28,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15425.jpg 12,1,327,316,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15429.jpg 43,20,262,187,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15430.jpg 1,8,499,359,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15431.jpg 1,3,287,201,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15432.jpg 2,2,460,374,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15433.jpg 29,82,425,311,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15434.jpg 4,72,499,560,1 128,1,346,74,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15435.jpg 0,2,497,625,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15436.jpg 4,0,150,219,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15438.jpg 1,1,215,178,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15440.jpg 1,18,500,334,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15442.jpg 1,1,445,338,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15443.jpg 68,36,410,350,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15444.jpg 24,73,256,321,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15445.jpg 1,182,500,549,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15446.jpg 3,45,163,189,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15447.jpg 0,46,497,503,1 170,451,438,665,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15449.jpg 17,103,436,358,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15450.jpg 1,1,500,293,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15451.jpg 20,133,488,580,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15452.jpg 0,62,163,200,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15453.jpg 2,1,292,219,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15455.jpg 1,3,493,375,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15457.jpg 0,25,499,360,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15458.jpg 29,1,392,333,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15459.jpg 1,0,292,213,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15461.jpg 0,11,164,139,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_15462.jpg 1,2,165,193,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_155.jpg 6,9,291,398,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_156.jpg 54,49,560,308,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_157.jpg 10,51,285,254,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_158.jpg 18,7,359,365,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_159.jpg 18,138,200,284,0 198,134,393,283,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_160.jpg 236,317,797,703,0 91,67,519,425,0 533,61,988,434,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16058.jpg 346,41,478,484,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16060.jpg 77,21,373,563,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16061.jpg 408,48,540,722,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16063.jpg 101,11,455,871,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16064.jpg 20,28,261,974,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16065.jpg 74,76,560,455,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16066.jpg 2,24,442,335,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16067.jpg 116,34,645,469,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16068.jpg 76,57,294,708,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16069.jpg 0,0,449,209,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16071.jpg 81,16,327,578,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16072.jpg 141,0,244,332,4 22,0,121,340,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16073.jpg 99,65,221,334,4 1,5,106,303,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16074.jpg 158,2,370,306,4 28,1,202,306,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16076.jpg 18,0,204,383,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16077.jpg 37,0,425,859,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16078.jpg 75,0,250,428,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16079.jpg 28,2,234,496,4 207,1,440,495,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16080.jpg 1,1,178,163,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16081.jpg 9,5,246,268,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16082.jpg 354,135,488,396,4 239,168,358,410,4 204,28,318,381,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16084.jpg 97,0,374,1020,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16085.jpg 56,0,254,766,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16086.jpg 44,15,300,1019,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16087.jpg 82,1,352,1024,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16088.jpg 1,1,147,459,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16089.jpg 268,69,475,881,4 51,214,274,924,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16090.jpg 155,0,593,1022,4 0,304,228,769,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16091.jpg 156,40,427,793,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16092.jpg 188,5,1018,640,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16093.jpg 32,19,298,533,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16094.jpg 0,75,557,253,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16096.jpg 0,59,376,719,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16097.jpg 84,2,337,806,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16098.jpg 208,2,656,926,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16099.jpg 61,50,370,1021,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_161.jpg 22,112,342,297,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16100.jpg 53,131,618,821,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16101.jpg 1,1,241,173,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16102.jpg 1,1,238,258,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16103.jpg 20,41,215,418,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16105.jpg 263,147,587,997,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16106.jpg 17,23,505,615,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16107.jpg 0,4,83,204,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16108.jpg 93,49,355,939,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16110.jpg 184,34,285,235,4 26,23,173,235,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16112.jpg 92,41,241,274,4 0,33,109,246,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16113.jpg 185,15,400,821,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16114.jpg 27,25,88,248,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16115.jpg 113,25,239,244,4 3,21,109,240,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16117.jpg 109,4,233,390,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16119.jpg 104,0,289,528,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16120.jpg 101,7,414,496,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16123.jpg 263,71,501,813,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16124.jpg 74,15,346,1000,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16125.jpg 174,24,355,674,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16126.jpg 107,21,357,983,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16128.jpg 51,1,574,434,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16129.jpg 33,17,399,298,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16130.jpg 77,13,313,521,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16132.jpg 203,27,453,1002,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16134.jpg 91,1,610,862,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16135.jpg 164,33,332,648,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16137.jpg 319,55,622,648,4 25,60,318,643,4 0,195,76,599,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16138.jpg 93,1,354,968,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16139.jpg 233,69,593,993,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16140.jpg 224,2,848,1003,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16141.jpg 256,61,676,418,4 114,355,262,499,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16142.jpg 177,65,310,594,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16144.jpg 1,1,353,276,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16145.jpg 1,1,210,303,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16147.jpg 69,52,300,775,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16148.jpg 134,1,538,892,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16149.jpg 104,19,367,968,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16151.jpg 42,5,101,176,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16153.jpg 220,42,468,983,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16154.jpg 2,1,392,968,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16155.jpg 72,27,596,879,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16156.jpg 19,83,413,228,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16157.jpg 215,44,429,467,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16158.jpg 48,2,830,1023,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16159.jpg 408,49,542,722,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16162.jpg 117,41,399,989,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16163.jpg 71,2,374,905,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16164.jpg 74,1,587,1024,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16165.jpg 21,53,376,231,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16167.jpg 30,13,439,265,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16168.jpg 3,70,685,1021,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16169.jpg 138,74,340,352,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16170.jpg 90,6,382,1011,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16171.jpg 143,142,585,415,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16172.jpg 78,88,620,498,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16173.jpg 1,0,397,307,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16174.jpg 63,13,368,967,4 1,1,142,893,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16176.jpg 43,28,231,507,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16177.jpg 109,43,466,1023,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16179.jpg 148,66,344,978,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16180.jpg 77,49,408,669,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16181.jpg 1,1,210,215,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16183.jpg 9,25,993,701,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16184.jpg 19,1,510,974,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16185.jpg 0,17,262,857,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16189.jpg 75,19,141,272,4 14,12,76,273,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16190.jpg 0,0,112,277,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16191.jpg 196,115,539,880,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16192.jpg 0,68,254,635,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16194.jpg 50,10,183,440,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16195.jpg 162,139,479,888,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16197.jpg 119,7,681,1005,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16198.jpg 174,44,491,1004,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_162.jpg 9,14,412,342,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16202.jpg 19,16,347,173,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16203.jpg 349,45,474,487,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16204.jpg 155,34,449,1008,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16205.jpg 107,118,547,926,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16206.jpg 58,8,372,844,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16207.jpg 32,0,263,404,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16208.jpg 11,1,294,679,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16210.jpg 99,0,281,720,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16211.jpg 85,12,253,606,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16212.jpg 20,2,525,1023,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16213.jpg 232,89,597,1004,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16216.jpg 58,1,183,425,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16218.jpg 104,45,627,1024,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16220.jpg 78,17,450,1023,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16221.jpg 19,6,180,619,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16222.jpg 49,1,305,586,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16225.jpg 47,1,311,1008,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16226.jpg 83,1,295,776,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16227.jpg 16,32,117,412,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16229.jpg 72,63,429,1012,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16231.jpg 56,1,452,1006,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16232.jpg 103,0,718,966,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16233.jpg 80,2,228,471,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16234.jpg 34,13,207,452,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16237.jpg 36,1,495,841,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16238.jpg 43,109,378,838,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16239.jpg 230,65,796,893,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16240.jpg 0,54,445,426,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16241.jpg 244,42,766,722,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16242.jpg 28,101,549,288,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16243.jpg 34,0,285,411,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16245.jpg 100,0,305,719,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16249.jpg 24,20,346,587,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16250.jpg 113,41,370,1022,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16251.jpg 64,15,324,505,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16252.jpg 23,0,226,491,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16253.jpg 0,3,163,149,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16254.jpg 39,0,407,606,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16255.jpg 140,0,462,591,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16256.jpg 97,0,360,540,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16258.jpg 65,0,209,387,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16260.jpg 41,0,548,1022,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16261.jpg 3,0,218,575,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16262.jpg 101,52,263,456,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16263.jpg 31,13,173,458,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16264.jpg 16,1,169,400,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16265.jpg 4,1,154,389,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16266.jpg 54,0,188,447,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16267.jpg 131,11,475,980,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16268.jpg 32,0,213,569,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16269.jpg 84,33,494,1023,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16270.jpg 196,19,508,979,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16271.jpg 95,15,681,1022,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16273.jpg 14,8,422,995,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16274.jpg 91,27,536,920,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16275.jpg 373,1,626,1021,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16276.jpg 1,0,439,624,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16277.jpg 197,5,283,294,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16278.jpg 249,246,665,914,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16279.jpg 192,4,323,454,4 31,0,153,454,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16280.jpg 183,75,495,991,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16282.jpg 132,15,377,965,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16283.jpg 11,1,397,557,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16284.jpg 167,1,363,690,4 0,428,151,666,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16285.jpg 19,23,127,333,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16286.jpg 28,7,130,301,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16287.jpg 96,0,453,988,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16288.jpg 123,0,579,995,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16289.jpg 43,11,221,438,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16290.jpg 29,0,404,992,4 2,30,132,588,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16291.jpg 97,0,667,1023,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16292.jpg 70,20,455,762,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16293.jpg 46,10,279,511,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16294.jpg 17,0,173,397,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16297.jpg 125,14,418,977,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16299.jpg 29,0,486,692,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_163.jpg 60,325,766,875,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16300.jpg 130,0,334,718,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16301.jpg 8,0,481,889,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16304.jpg 1,1,172,374,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16305.jpg 34,0,341,454,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16306.jpg 3,266,294,462,4 2,36,187,227,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16308.jpg 171,1,392,757,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16309.jpg 4,16,106,259,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16311.jpg 96,35,165,286,4 1,34,67,272,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16312.jpg 153,1,321,593,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16314.jpg 151,19,405,893,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16316.jpg 157,50,328,701,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16317.jpg 102,79,160,199,4 12,37,107,206,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16319.jpg 0,0,616,658,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16321.jpg 146,67,796,1008,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16323.jpg 134,85,580,968,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16325.jpg 188,39,563,993,4 27,115,164,870,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16327.jpg 165,22,477,782,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16328.jpg 175,185,617,936,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_16329.jpg 83,1,297,749,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_1640.jpg 137,60,240,281,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_165.jpg 17,10,622,392,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_166.jpg 3,17,319,276,0 14,151,300,391,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_167.jpg 50,187,659,565,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_171.jpg 48,105,625,708,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_173.jpg 57,72,795,474,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_175.jpg 134,113,369,279,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_176.jpg 39,88,237,221,0 244,72,453,333,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_177.jpg 97,31,804,643,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_178.jpg 0,233,353,581,0 350,223,738,581,0 1,556,389,969,0 388,575,765,986,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_179.jpg 241,278,517,814,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17904.jpg 295,0,488,299,4 130,123,264,297,4 0,158,134,333,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17905.jpg 321,1,651,978,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17906.jpg 159,17,329,438,4 1,32,176,438,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17909.jpg 350,1,661,946,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17910.jpg 374,1,689,949,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17911.jpg 71,38,231,344,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17913.jpg 1,1,550,400,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17914.jpg 2,75,415,303,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17915.jpg 74,65,199,174,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17916.jpg 36,51,447,282,4 217,27,288,60,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17917.jpg 249,31,367,413,4 110,31,224,414,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17918.jpg 132,74,327,150,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17919.jpg 96,93,314,189,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17920.jpg 172,68,214,196,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17921.jpg 275,10,487,268,4 118,15,239,291,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17922.jpg 260,57,382,323,4 96,230,403,406,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17923.jpg 111,16,450,200,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17924.jpg 281,68,422,166,4 60,95,269,206,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17925.jpg 198,131,305,186,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17926.jpg 93,195,307,305,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17927.jpg 46,89,133,122,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17928.jpg 91,386,401,611,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17929.jpg 239,240,382,299,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17931.jpg 9,126,320,203,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17934.jpg 77,205,236,293,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17935.jpg 348,163,494,515,4 203,92,343,513,4 41,166,200,520,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17936.jpg 74,76,396,362,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17937.jpg 300,111,499,186,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17938.jpg 253,46,336,133,4 19,41,172,114,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17939.jpg 0,40,133,255,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17940.jpg 35,72,399,174,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17941.jpg 70,1,223,137,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17942.jpg 180,114,363,222,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17943.jpg 56,120,201,162,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17944.jpg 0,1,321,190,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17945.jpg 60,0,243,50,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17946.jpg 145,174,315,241,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17952.jpg 73,2,319,165,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17954.jpg 75,590,322,671,4 230,600,458,718,4 150,206,406,340,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17955.jpg 73,0,235,237,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17956.jpg 0,0,403,299,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17959.jpg 133,77,424,259,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17960.jpg 16,110,400,315,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17964.jpg 154,48,383,232,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17966.jpg 70,81,212,140,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17967.jpg 1,70,235,205,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17968.jpg 54,46,142,369,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17971.jpg 196,73,327,162,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17973.jpg 238,78,667,433,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17974.jpg 23,72,697,761,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17975.jpg 1,167,767,698,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17976.jpg 176,13,496,992,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17977.jpg 0,0,317,200,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17978.jpg 18,2,375,664,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17979.jpg 210,165,295,221,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17982.jpg 21,72,232,156,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17984.jpg 81,113,285,185,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17985.jpg 63,81,211,194,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17986.jpg 229,181,391,322,4 69,22,238,308,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17987.jpg 1,0,404,231,4 366,142,471,398,4 104,143,308,480,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17988.jpg 293,190,342,297,3 194,0,287,254,4 54,18,191,280,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17989.jpg 120,53,499,279,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17991.jpg 7,17,539,289,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17993.jpg 79,1,261,409,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17994.jpg 14,25,291,170,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17996.jpg 1,68,377,310,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17998.jpg 56,0,339,323,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_17999.jpg 77,2,213,279,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18001.jpg 15,0,284,243,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18002.jpg 39,102,374,255,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18003.jpg 88,8,225,209,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18004.jpg 361,176,561,344,4 1,1,490,170,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18005.jpg 162,39,276,350,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18006.jpg 107,69,211,229,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18008.jpg 211,103,380,366,4 106,18,234,366,4 0,106,132,366,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18009.jpg 0,209,403,368,4 1,79,360,228,4 0,1,366,97,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18010.jpg 106,98,410,287,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18011.jpg 328,691,664,1023,4 160,253,723,894,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18013.jpg 1,15,488,719,4 253,1,748,562,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18015.jpg 435,38,659,740,4 1,393,446,750,4 1,422,446,748,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18017.jpg 1,114,767,506,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18019.jpg 24,1,231,332,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18021.jpg 173,22,285,326,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18022.jpg 8,82,374,347,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18025.jpg 186,42,322,321,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18027.jpg 119,1,318,447,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18028.jpg 241,81,262,226,4 159,29,235,226,4 83,29,162,227,4 13,27,85,227,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18029.jpg 8,36,225,666,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18030.jpg 84,1,223,344,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18031.jpg 374,116,487,261,4 263,98,358,299,4 138,108,233,306,4 17,122,123,270,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18032.jpg 224,38,372,453,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18034.jpg 217,88,315,273,4 62,51,182,303,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18035.jpg 82,66,193,386,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18036.jpg 162,369,396,633,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18037.jpg 151,438,438,601,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18039.jpg 149,419,382,580,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18040.jpg 135,325,377,571,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18042.jpg 428,284,679,449,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18043.jpg 154,309,374,766,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18046.jpg 236,332,451,721,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18047.jpg 187,224,377,521,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18048.jpg 218,300,425,658,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18050.jpg 22,369,538,563,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18051.jpg 207,264,398,710,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18086.jpg 213,297,493,707,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18088.jpg 58,342,498,585,4 445,0,576,148,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18089.jpg 89,193,392,590,4 135,1,238,142,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18090.jpg 100,242,486,613,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18092.jpg 80,421,468,547,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18093.jpg 231,285,357,612,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18094.jpg 174,117,317,574,4 1,188,39,340,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18102.jpg 234,29,771,467,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18103.jpg 229,90,787,489,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18104.jpg 344,1,597,555,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18105.jpg 350,3,649,541,4 1,24,259,204,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18106.jpg 146,133,423,777,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18110.jpg 45,239,877,546,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18111.jpg 370,101,727,630,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18112.jpg 301,39,737,620,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18113.jpg 54,192,998,556,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18115.jpg 1,85,998,460,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18117.jpg 166,141,562,791,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18118.jpg 48,105,819,553,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18120.jpg 298,1,788,768,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18121.jpg 269,209,1006,702,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18122.jpg 268,1,639,485,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18123.jpg 55,158,688,646,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18124.jpg 214,50,714,675,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18126.jpg 292,1,950,630,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18127.jpg 144,1,739,716,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18129.jpg 1,1,844,720,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18130.jpg 68,65,627,644,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18131.jpg 93,1,667,641,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18132.jpg 355,32,943,547,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18133.jpg 316,194,706,568,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18134.jpg 364,236,827,516,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18136.jpg 354,1,743,657,4 74,1,231,148,4 1,1,74,181,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18137.jpg 264,1,628,551,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18139.jpg 190,1,712,636,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18140.jpg 44,32,1007,613,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18142.jpg 277,56,865,490,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18143.jpg 326,131,860,615,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18144.jpg 199,1,717,686,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18145.jpg 184,1,922,618,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18146.jpg 1,179,990,695,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18147.jpg 507,1,1024,488,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18148.jpg 92,124,898,593,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18149.jpg 140,252,593,873,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18150.jpg 158,81,686,855,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18151.jpg 140,313,841,664,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18152.jpg 1,121,668,853,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18154.jpg 89,209,887,603,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18156.jpg 385,154,719,505,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18157.jpg 417,121,889,756,4 403,1,649,141,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18158.jpg 476,202,940,767,4 406,1,669,233,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18159.jpg 401,126,687,734,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18161.jpg 343,179,708,689,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18162.jpg 0,175,592,855,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18163.jpg 310,337,653,687,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18164.jpg 264,1,660,601,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18165.jpg 420,109,685,706,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18167.jpg 96,196,1003,495,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18172.jpg 359,1,877,658,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18173.jpg 167,45,785,617,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18174.jpg 73,1,658,519,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18175.jpg 119,23,980,576,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18176.jpg 253,134,715,672,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18177.jpg 370,144,1024,685,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18178.jpg 250,1,706,674,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18179.jpg 44,1,689,486,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18180.jpg 198,166,869,693,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18181.jpg 448,151,869,613,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18182.jpg 194,137,676,768,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18183.jpg 114,47,795,517,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18185.jpg 357,577,767,818,4 237,58,498,656,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18186.jpg 520,344,774,620,4 195,0,544,767,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18187.jpg 553,291,1009,592,4 175,298,548,767,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18189.jpg 204,526,582,900,4 219,1,455,538,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18190.jpg 164,88,464,808,4 505,461,768,696,4 479,922,700,1024,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18191.jpg 260,174,865,555,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18192.jpg 69,181,960,621,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18193.jpg 337,256,629,563,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18194.jpg 72,70,576,572,4 414,261,737,668,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18196.jpg 250,339,989,746,4 381,278,628,507,4 528,1,781,434,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18197.jpg 74,1,395,539,4 360,130,689,459,4 394,1,988,531,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18198.jpg 1,140,740,839,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18199.jpg 154,1,598,688,4 347,589,649,914,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_182.jpg 358,271,583,474,0 268,470,471,690,0 473,475,593,700,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18200.jpg 438,96,737,766,4 511,673,767,957,4 1,189,507,993,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18201.jpg 224,24,523,240,4 1,259,968,598,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18202.jpg 252,330,917,759,4 34,443,312,767,4 56,1,776,397,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18203.jpg 113,663,578,951,4 1,706,166,898,4 1,1,422,600,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18204.jpg 405,245,1023,610,4 464,1,664,354,4 1,1,387,621,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18205.jpg 542,218,945,553,4 364,2,659,534,4 1,58,651,655,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18206.jpg 242,386,775,767,4 526,91,963,730,4 198,1,699,490,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18207.jpg 75,273,525,709,4 394,196,985,621,4 322,72,909,310,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18208.jpg 390,84,788,385,4 96,99,451,387,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18209.jpg 181,305,301,643,4 265,151,398,637,4 105,109,253,635,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18212.jpg 69,0,298,269,4 0,0,39,279,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18213.jpg 0,0,348,279,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18214.jpg 73,27,193,343,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18215.jpg 33,23,201,337,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18221.jpg 130,78,215,278,4 209,106,299,299,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18222.jpg 7,5,296,335,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18223.jpg 3,23,252,239,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18224.jpg 24,9,99,226,4 127,48,174,199,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18225.jpg 1,30,72,245,4 69,41,137,235,4 150,64,219,237,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18226.jpg 18,366,553,566,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18227.jpg 206,261,397,708,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18228.jpg 153,305,397,766,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18230.jpg 180,299,334,629,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18231.jpg 86,300,426,767,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18232.jpg 230,44,587,794,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18233.jpg 161,1,505,920,4
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18234.jpg 64,109,639,953,4 1,195,209,570,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18235.jpg 1,68,260,281,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18237.jpg 82,41,571,364,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18238.jpg 108,20,263,327,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18239.jpg 22,18,329,363,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18241.jpg 8,8,183,161,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18242.jpg 28,22,190,206,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18243.jpg 36,49,190,556,2 190,377,681,584,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18245.jpg 19,48,84,238,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18247.jpg 0,277,250,385,2 1,164,250,283,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18248.jpg 32,265,990,973,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18249.jpg 17,25,137,203,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18250.jpg 44,59,307,166,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18251.jpg 1,1,208,195,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18253.jpg 60,61,343,301,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18254.jpg 72,56,346,402,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18256.jpg 89,37,181,353,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18259.jpg 1,35,215,299,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18260.jpg 41,16,144,313,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18261.jpg 0,1,278,224,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18262.jpg 12,122,187,237,2 14,11,64,127,2 118,4,167,123,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18263.jpg 46,26,176,266,2 96,0,253,42,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18264.jpg 4,12,192,210,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18265.jpg 16,55,780,670,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18266.jpg 36,18,359,251,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18267.jpg 185,21,273,340,2 22,195,338,307,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18268.jpg 40,1,207,86,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18269.jpg 49,57,224,205,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18270.jpg 8,102,426,277,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18271.jpg 54,27,228,303,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18272.jpg 50,109,974,706,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18275.jpg 28,86,250,180,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18276.jpg 74,32,178,370,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18277.jpg 5,118,260,261,2 69,5,225,120,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18279.jpg 9,37,535,229,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18281.jpg 17,53,99,263,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18282.jpg 46,12,493,434,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18283.jpg 203,110,559,584,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18285.jpg 1,1,153,173,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18286.jpg 1,6,166,248,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18287.jpg 10,5,132,173,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18288.jpg 88,77,587,339,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18289.jpg 198,137,214,268,2 119,78,186,296,2 43,80,107,295,2 0,49,25,281,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18290.jpg 1,20,202,268,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18292.jpg 94,80,177,245,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18293.jpg 91,94,340,279,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18295.jpg 20,57,346,263,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18296.jpg 2,14,231,450,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18297.jpg 138,66,199,256,2 135,211,325,299,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18298.jpg 28,265,377,382,2 105,0,306,289,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18299.jpg 6,5,242,109,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18300.jpg 3,2,120,206,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18301.jpg 106,66,393,296,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18302.jpg 89,5,227,300,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18303.jpg 38,20,104,266,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18305.jpg 3,123,174,268,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18306.jpg 77,31,314,450,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18307.jpg 66,35,184,321,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18308.jpg 107,50,349,218,2 28,26,270,186,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18309.jpg 13,56,92,265,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18310.jpg 7,16,301,230,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18311.jpg 70,52,267,252,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18313.jpg 64,26,306,151,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18314.jpg 13,27,233,326,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18315.jpg 4,74,357,263,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18316.jpg 172,132,360,325,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18317.jpg 2,12,114,68,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18319.jpg 67,38,168,227,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18320.jpg 36,72,244,198,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18321.jpg 1,39,260,184,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18322.jpg 9,15,251,171,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18323.jpg 148,51,189,220,2 79,219,255,257,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18324.jpg 17,11,318,159,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18326.jpg 39,150,253,205,2 42,82,255,137,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18328.jpg 3,5,220,171,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18329.jpg 466,185,604,581,2 361,182,482,573,2 237,182,361,576,2 111,182,256,575,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18330.jpg 12,44,98,295,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18332.jpg 7,19,171,100,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18333.jpg 1,65,109,277,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18336.jpg 385,28,612,710,2 155,27,388,710,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18337.jpg 92,21,408,194,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18338.jpg 0,3,242,223,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18340.jpg 42,41,108,128,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18341.jpg 197,101,261,216,2 119,40,203,215,2 52,140,227,340,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18342.jpg 6,3,46,78,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18344.jpg 27,7,380,390,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18345.jpg 23,7,190,283,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18346.jpg 633,402,705,628,2 437,398,511,617,2 262,397,327,610,2 78,400,149,613,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18347.jpg 37,26,171,187,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18348.jpg 0,72,192,245,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18349.jpg 526,224,783,559,2 175,304,577,421,2 309,191,671,298,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18352.jpg 112,25,209,342,2 34,54,121,344,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18354.jpg 42,6,280,219,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18355.jpg 168,165,185,270,2 109,31,178,273,2 19,31,101,276,2 0,131,42,290,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18356.jpg 11,14,143,226,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18357.jpg 8,22,172,214,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18358.jpg 81,50,161,261,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18359.jpg 38,16,138,359,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18360.jpg 233,194,339,573,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18361.jpg 51,6,406,185,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18362.jpg 258,134,519,647,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18363.jpg 170,10,304,391,2 66,3,184,384,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18364.jpg 13,47,100,340,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18365.jpg 217,172,608,666,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18366.jpg 72,58,418,244,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18368.jpg 233,33,286,203,2 88,34,138,207,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18369.jpg 58,19,122,198,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18370.jpg 77,291,696,662,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18371.jpg 2,15,156,265,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18372.jpg 0,6,108,248,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18373.jpg 245,44,312,281,2 172,42,238,279,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18375.jpg 0,10,314,127,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18377.jpg 48,23,233,319,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18379.jpg 58,19,178,427,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18381.jpg 19,27,107,287,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18382.jpg 186,98,269,194,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18383.jpg 0,0,142,253,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18384.jpg 1,40,453,406,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18385.jpg 137,206,432,308,2 47,20,138,307,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18386.jpg 18,24,303,400,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18387.jpg 6,57,134,303,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18388.jpg 51,21,161,378,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18389.jpg 18,16,267,105,2 85,0,131,25,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18493.jpg 53,70,127,257,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18494.jpg 154,109,708,567,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18495.jpg 40,8,214,212,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18496.jpg 58,48,373,148,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18497.jpg 126,45,202,304,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18499.jpg 19,31,156,307,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18500.jpg 115,165,342,696,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18501.jpg 104,23,193,335,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18502.jpg 30,9,222,320,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18503.jpg 28,13,337,162,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18507.jpg 59,75,203,130,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18508.jpg 22,45,127,330,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18509.jpg 52,37,178,391,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18512.jpg 37,0,365,167,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18514.jpg 7,15,306,228,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18515.jpg 19,14,134,219,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18516.jpg 70,28,209,167,2 2,7,142,127,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18518.jpg 12,24,190,198,2 0,0,195,47,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18519.jpg 87,27,131,150,2 32,37,80,158,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18520.jpg 115,33,178,222,2 63,39,120,225,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18522.jpg 69,40,129,226,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18523.jpg 131,33,249,352,2 29,28,139,352,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18525.jpg 40,17,207,300,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18527.jpg 212,74,383,320,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18528.jpg 11,3,292,196,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18529.jpg 61,44,184,236,2 162,160,191,288,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18530.jpg 9,17,248,126,2 131,0,227,28,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18531.jpg 239,134,421,492,2 83,84,252,448,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18532.jpg 55,81,200,250,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18533.jpg 21,72,204,193,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18534.jpg 207,53,315,269,2 98,55,208,270,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18536.jpg 98,84,211,206,2 1,2,120,182,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18537.jpg 58,36,197,111,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18538.jpg 17,27,270,331,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18539.jpg 43,4,153,202,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18540.jpg 3,0,261,281,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18541.jpg 62,28,395,255,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18542.jpg 37,16,137,178,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18543.jpg 16,54,74,216,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18544.jpg 32,14,291,319,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18545.jpg 46,21,156,369,2 1,265,53,358,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18546.jpg 34,40,333,275,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18548.jpg 16,11,265,408,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18549.jpg 82,86,250,215,2 10,53,191,148,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18550.jpg 67,175,281,319,2 198,30,255,173,2 69,39,131,181,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18551.jpg 66,32,183,274,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18552.jpg 68,91,279,150,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18554.jpg 201,70,268,253,2 133,47,200,230,2 66,85,155,267,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18555.jpg 156,56,206,189,2 107,55,158,188,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18557.jpg 7,10,417,197,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18558.jpg 165,162,290,265,2 150,100,305,157,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18559.jpg 82,34,173,330,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18561.jpg 45,24,149,384,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18562.jpg 3,10,135,222,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18564.jpg 11,3,202,218,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18565.jpg 119,32,200,200,2 4,12,159,125,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18567.jpg 9,7,330,303,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18568.jpg 40,32,159,395,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18569.jpg 39,52,285,180,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18570.jpg 102,38,194,403,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18571.jpg 208,24,291,275,2 136,31,218,275,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18572.jpg 33,247,484,374,2 26,138,481,262,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18573.jpg 1,24,223,402,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18574.jpg 38,21,253,88,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18576.jpg 16,69,270,290,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18577.jpg 62,43,376,162,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18578.jpg 45,54,318,146,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18579.jpg 74,124,319,186,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18580.jpg 104,123,338,256,2 63,84,294,206,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18581.jpg 26,53,162,279,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18583.jpg 21,25,164,273,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18584.jpg 51,74,312,189,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18585.jpg 157,56,297,411,2 26,51,197,408,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18586.jpg 82,17,523,441,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18587.jpg 34,58,233,387,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18588.jpg 169,72,254,370,2 88,72,171,369,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18589.jpg 15,18,133,232,2 0,76,15,233,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18590.jpg 103,115,237,199,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18591.jpg 55,43,185,375,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18592.jpg 5,57,276,238,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18593.jpg 119,29,193,200,2 2,55,175,285,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18594.jpg 54,97,341,309,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18597.jpg 53,13,418,155,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18598.jpg 32,74,293,268,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18600.jpg 36,26,98,175,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18601.jpg 235,213,814,383,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18602.jpg 19,19,420,141,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18603.jpg 43,14,193,133,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18604.jpg 54,46,209,305,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18605.jpg 0,0,193,352,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18606.jpg 169,16,271,159,2 13,37,164,177,2 39,0,98,56,2 1,0,32,56,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18607.jpg 250,249,742,409,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18608.jpg 66,112,255,173,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18609.jpg 5,10,201,137,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18610.jpg 201,171,572,311,2 85,142,251,313,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18611.jpg 36,1,253,214,2 1,149,36,214,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18612.jpg 46,44,214,331,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18616.jpg 0,1,116,240,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18617.jpg 133,77,205,206,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18618.jpg 1,1,681,513,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18620.jpg 54,19,368,286,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18621.jpg 1,0,305,177,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18622.jpg 5,11,365,282,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18623.jpg 129,19,231,226,2 26,20,130,228,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18624.jpg 44,29,271,416,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18627.jpg 49,42,240,180,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18628.jpg 109,69,348,315,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18629.jpg 18,49,351,194,2 313,0,370,88,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18632.jpg 107,44,216,97,2 39,4,146,49,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18633.jpg 3,5,264,214,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18634.jpg 19,22,325,155,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18635.jpg 5,29,98,250,2 1,1,27,164,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18637.jpg 3,39,154,410,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18638.jpg 90,89,351,211,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18639.jpg 101,13,232,170,2 0,1,106,145,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_18640.jpg 20,29,641,375,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_187.jpg 52,91,447,269,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_190.jpg 63,205,703,404,0 69,380,703,629,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_191.jpg 33,64,196,238,0 189,14,238,145,0 184,143,238,290,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_193.jpg 43,106,726,584,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_194.jpg 40,40,262,181,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_195.jpg 12,131,490,355,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_196.jpg 252,95,878,653,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_197.jpg 29,25,402,597,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_198.jpg 0,45,168,339,0 184,24,399,327,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_205.jpg 76,34,268,232,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_209.jpg 10,5,299,212,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_210.jpg 193,22,571,704,0 578,206,964,581,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_211.jpg 25,24,217,250,0 212,59,381,251,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_213.jpg 61,120,672,496,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_218.jpg 64,41,966,772,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_220.jpg 90,348,405,814,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_223.jpg 31,495,457,816,0 1,3,592,536,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_224.jpg 1,248,344,783,0 330,3,765,1000,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_225.jpg 1,368,504,726,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_226.jpg 3,81,521,562,0 1,633,521,1021,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_228.jpg 0,121,573,792,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_229.jpg 1,259,378,550,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_231.jpg 1,296,406,762,0 1,685,539,1021,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_232.jpg 4,4,446,796,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_233.jpg 18,171,469,867,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_234.jpg 56,393,537,893,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_235.jpg 151,631,387,806,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_236.jpg 0,165,475,453,0 10,363,451,523,0 3,493,475,884,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_237.jpg 355,313,555,496,0 266,461,437,656,0 131,378,331,556,0 208,225,393,426,0 1,1,256,481,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_240.jpg 296,180,858,627,0 3,1,419,472,0 355,2,808,245,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_241.jpg 245,195,913,517,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_242.jpg 123,181,498,765,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_244.jpg 141,166,507,802,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_245.jpg 71,231,761,574,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_247.jpg 0,0,764,1023,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_248.jpg 1,76,394,377,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_249.jpg 275,391,688,937,0 1,260,242,973,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_251.jpg 160,1,368,507,0 175,485,381,863,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_253.jpg 0,125,765,1021,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_257.jpg 11,318,663,797,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_260.jpg 0,95,615,933,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_261.jpg 1,2,357,614,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_262.jpg 25,62,429,592,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_264.jpg 173,161,719,911,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_265.jpg 9,22,400,519,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_266.jpg 138,3,579,340,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_269.jpg 44,168,391,609,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_270.jpg 1,131,399,673,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_271.jpg 1,105,396,617,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_272.jpg 2,114,396,635,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_273.jpg 112,382,536,714,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_274.jpg 121,416,512,809,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_275.jpg 186,78,711,499,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_276.jpg 258,362,567,600,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_277.jpg 129,2,668,410,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_278.jpg 1,148,433,652,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_280.jpg 1,195,431,639,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_283.jpg 24,115,458,394,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_284.jpg 18,66,275,224,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_288.jpg 69,89,593,406,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_292.jpg 13,77,747,477,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_293.jpg 26,34,578,429,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_297.jpg 7,104,723,508,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_299.jpg 28,161,563,835,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_300.jpg 11,25,627,321,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_301.jpg 24,21,311,273,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_303.jpg 24,160,474,397,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_304.jpg 49,48,408,289,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_305.jpg 28,49,477,336,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_309.jpg 16,42,208,234,0 208,47,397,233,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_310.jpg 3,0,412,214,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_312.jpg 2,2,496,338,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_315.jpg 1,2,434,289,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_317.jpg 12,24,337,269,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_318.jpg 6,35,446,418,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_319.jpg 9,17,395,269,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_320.jpg 79,60,444,320,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_321.jpg 55,47,445,274,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_322.jpg 67,100,425,285,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_323.jpg 0,0,150,152,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_324.jpg 1,0,364,310,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_327.jpg 38,32,193,169,0 58,142,320,316,0 305,59,499,316,0 183,32,330,169,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_7144.jpg 106,65,185,190,2 134,154,263,237,2 245,60,293,165,2 260,82,392,205,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_7158.jpg 20,137,336,386,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_7163.jpg 11,80,389,487,2
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_722.jpg 61,226,500,619,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_723.jpg 138,279,526,719,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_726.jpg 110,238,395,746,0
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_827.jpg 0,1,236,176,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_828.jpg 19,2,106,54,6 106,94,175,159,6 135,60,221,139,6 153,1,223,75,6 224,46,281,77,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_829.jpg 41,73,314,265,6 351,42,429,268,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_830.jpg 92,1,195,224,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9161.jpg 97,166,926,418,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9162.jpg 84,101,940,502,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9163.jpg 84,122,901,599,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9165.jpg 42,222,747,507,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9166.jpg 51,21,903,563,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9167.jpg 228,0,949,1005,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9169.jpg 14,100,963,504,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9170.jpg 1,1,576,912,5 254,0,576,265,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9171.jpg 46,112,528,348,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9172.jpg 1,83,376,764,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9173.jpg 112,7,854,355,5 91,320,892,729,5 162,575,803,883,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9175.jpg 19,31,429,277,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9177.jpg 76,109,932,844,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9179.jpg 18,44,982,546,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9180.jpg 48,97,753,512,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9181.jpg 45,101,976,586,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9183.jpg 14,12,1017,535,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9185.jpg 107,156,919,543,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_926.jpg 154,60,315,516,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_929.jpg 0,1,377,342,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_930.jpg 355,1,619,500,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9318.jpg 1,110,572,646,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9320.jpg 73,43,299,399,5 0,0,99,184,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9321.jpg 31,1,299,391,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9322.jpg 20,34,279,291,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9323.jpg 93,17,488,1024,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9324.jpg 1,44,224,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9325.jpg 88,218,1021,1021,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9326.jpg 0,11,223,303,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_933.jpg 116,90,247,134,6 13,54,120,138,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9330.jpg 3,70,224,303,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9331.jpg 1,11,209,385,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9333.jpg 10,174,225,354,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9334.jpg 0,45,215,299,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9336.jpg 0,10,370,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9337.jpg 138,0,399,299,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9338.jpg 52,28,177,400,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9340.jpg 55,82,192,325,5 145,98,271,333,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9341.jpg 50,22,195,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9342.jpg 5,0,224,173,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9343.jpg 17,127,225,313,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9344.jpg 1,38,299,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9345.jpg 75,0,157,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9346.jpg 56,54,193,351,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9347.jpg 40,1,115,220,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9348.jpg 16,119,165,267,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9349.jpg 7,25,353,268,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_935.jpg 35,45,149,126,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9350.jpg 91,18,218,370,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9354.jpg 37,102,217,340,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9355.jpg 1,113,286,286,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9357.jpg 68,19,244,319,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9358.jpg 1,110,299,367,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9359.jpg 85,101,249,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_936.jpg 24,5,200,108,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9360.jpg 28,2,186,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9361.jpg 16,54,400,326,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9362.jpg 96,0,575,1023,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9365.jpg 14,93,399,244,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9367.jpg 0,84,184,277,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9368.jpg 83,86,249,362,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9369.jpg 26,1,278,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_937.jpg 277,398,507,479,6 391,110,637,360,6 138,48,260,454,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9370.jpg 17,104,198,335,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9372.jpg 10,93,296,350,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9373.jpg 81,26,276,399,5 1,72,95,312,5 50,35,299,399,1 1,0,107,119,1
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9374.jpg 1,1,399,344,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9375.jpg 1,52,225,357,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9376.jpg 1,52,237,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9377.jpg 51,16,198,373,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9378.jpg 19,58,299,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9380.jpg 2,0,190,367,5 73,369,140,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9381.jpg 3,37,376,259,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9382.jpg 119,2,197,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9386.jpg 9,35,215,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9388.jpg 3,21,200,346,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_939.jpg 166,36,254,93,6 84,58,140,84,6 2,12,151,69,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9390.jpg 79,35,135,357,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9391.jpg 1,39,154,373,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9392.jpg 0,1,242,362,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9393.jpg 6,44,299,391,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9395.jpg 0,56,196,285,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9396.jpg 45,54,203,351,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9397.jpg 1,95,300,375,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9398.jpg 1,45,372,258,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_940.jpg 6,32,222,126,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9401.jpg 2,2,399,241,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9402.jpg 1,91,299,370,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9403.jpg 22,58,134,317,5 95,61,202,356,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9405.jpg 0,117,205,274,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9406.jpg 1,165,532,691,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9407.jpg 22,47,223,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9409.jpg 1,39,224,340,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_941.jpg 0,19,781,512,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9410.jpg 1,93,224,311,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9411.jpg 73,1,149,358,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9412.jpg 1,45,299,286,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9413.jpg 0,0,399,335,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9417.jpg 235,106,541,1010,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9419.jpg 57,5,155,365,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_942.jpg 42,4,184,155,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9420.jpg 39,29,212,370,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9421.jpg 1,28,282,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9422.jpg 1,68,224,242,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9424.jpg 0,92,141,313,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9427.jpg 1,50,214,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9429.jpg 0,33,134,323,5 76,27,206,302,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_943.jpg 64,31,236,190,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9430.jpg 0,54,223,294,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9431.jpg 2,11,234,340,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9432.jpg 177,125,941,638,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9433.jpg 140,88,703,690,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9435.jpg 72,121,971,583,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9436.jpg 119,117,869,519,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9438.jpg 17,0,655,338,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9439.jpg 10,1,678,300,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_944.jpg 151,12,200,97,6 70,25,149,106,6 0,104,73,173,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9440.jpg 40,58,650,362,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9441.jpg 86,206,940,585,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9442.jpg 205,125,880,623,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9445.jpg 112,48,785,708,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9446.jpg 180,38,754,786,5 1,35,625,752,5 1,50,331,611,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9448.jpg 1,2,799,358,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9449.jpg 212,147,836,669,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9452.jpg 0,51,366,243,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9453.jpg 23,48,374,255,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9454.jpg 146,191,632,890,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9455.jpg 48,29,370,201,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9456.jpg 13,32,191,130,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9457.jpg 0,1,239,395,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9458.jpg 23,87,376,246,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9459.jpg 2,80,376,261,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_946.jpg 0,0,218,216,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9460.jpg 0,64,239,334,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9461.jpg 111,89,337,220,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9462.jpg 1,4,238,319,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9463.jpg 0,0,239,354,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9465.jpg 3,148,396,276,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9467.jpg 1,7,208,139,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9468.jpg 48,73,766,812,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_947.jpg 88,63,135,123,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9470.jpg 0,7,176,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9471.jpg 146,15,606,1021,5 0,200,196,1021,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9473.jpg 0,0,236,399,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9474.jpg 18,135,585,374,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9476.jpg 15,9,457,258,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9477.jpg 40,98,459,302,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9478.jpg 32,14,141,192,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9479.jpg 13,89,479,412,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_948.jpg 175,65,201,197,6 142,61,174,196,6 94,41,139,195,6 59,28,92,196,6 21,10,54,196,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9481.jpg 22,77,495,430,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9484.jpg 222,37,354,515,5 77,77,305,453,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9486.jpg 18,91,499,442,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_949.jpg 134,89,168,175,6 99,76,133,172,6 69,65,95,174,6 35,52,63,172,6 1,44,29,172,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9490.jpg 45,59,365,226,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9491.jpg 11,0,186,218,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9492.jpg 36,47,164,191,5 0,49,54,128,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9493.jpg 0,44,433,317,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9494.jpg 1,2,484,257,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9495.jpg 22,29,466,286,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9496.jpg 8,57,778,571,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9499.jpg 55,60,309,176,5 109,144,265,213,5 54,1,307,87,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_950.jpg 246,79,343,157,6 218,166,372,243,6 9,90,163,214,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9500.jpg 31,1,485,318,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9501.jpg 0,40,499,278,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9502.jpg 21,64,466,298,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9503.jpg 48,46,307,170,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9504.jpg 3,45,499,362,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9505.jpg 2,32,213,122,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9506.jpg 26,46,444,657,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9508.jpg 0,118,497,644,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9509.jpg 8,2,497,314,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_951.jpg 243,154,517,224,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9512.jpg 23,15,259,139,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9514.jpg 9,14,291,204,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9515.jpg 42,194,441,425,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9516.jpg 51,108,452,268,5 11,222,488,439,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9517.jpg 254,21,406,360,5 159,1,333,304,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9519.jpg 9,16,488,268,5 71,204,409,359,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9523.jpg 0,37,215,161,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9524.jpg 8,38,490,339,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9525.jpg 45,94,551,482,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9526.jpg 0,75,599,510,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9527.jpg 16,61,588,415,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9528.jpg 10,103,590,418,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9529.jpg 94,2,971,790,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_953.jpg 111,58,213,119,6 23,23,96,120,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9530.jpg 55,52,953,518,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9531.jpg 22,10,528,345,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9532.jpg 109,37,782,576,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9535.jpg 126,104,859,539,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9537.jpg 19,1,1014,590,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9538.jpg 81,330,916,658,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9539.jpg 7,94,970,613,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_954.jpg 0,0,201,145,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9540.jpg 176,73,844,944,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9542.jpg 43,94,988,526,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9543.jpg 57,125,572,381,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9544.jpg 15,43,1004,565,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9545.jpg 1,6,290,151,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9546.jpg 33,121,980,572,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9547.jpg 5,12,787,758,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9548.jpg 13,48,1021,580,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9549.jpg 1,2,370,469,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9551.jpg 40,149,781,516,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9552.jpg 24,137,960,600,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9553.jpg 8,38,763,734,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9555.jpg 82,8,437,348,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9556.jpg 20,89,779,448,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9557.jpg 21,1,768,395,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9559.jpg 1,55,575,759,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_956.jpg 20,56,288,163,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9560.jpg 3,131,573,699,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9562.jpg 83,11,569,947,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9564.jpg 3,105,524,1023,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9565.jpg 0,41,550,944,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9566.jpg 1,66,575,838,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9572.jpg 2,6,1023,519,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9574.jpg 0,15,474,754,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9575.jpg 0,47,814,617,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9576.jpg 21,20,435,634,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9578.jpg 0,118,636,475,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_958.jpg 234,653,374,780,6 132,114,251,732,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9580.jpg 1,8,473,613,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9581.jpg 1,23,431,677,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9582.jpg 55,1,462,833,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9584.jpg 88,1,569,821,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9585.jpg 42,3,239,247,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_9587.jpg 15,33,256,156,5
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_959.jpg 74,43,90,66,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_960.jpg 282,135,311,181,6 142,13,200,47,6 83,159,159,211,6 130,249,190,279,6 55,329,120,362,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_961.jpg 147,108,196,157,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_962.jpg 309,96,421,285,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_964.jpg 75,113,337,201,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_965.jpg 89,99,145,123,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_967.jpg 471,326,652,445,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_968.jpg 161,150,599,433,6 328,1,599,165,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_969.jpg 0,0,357,449,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_970.jpg 317,74,644,449,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_971.jpg 18,45,69,135,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_972.jpg 43,8,89,96,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_973.jpg 35,3,154,154,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_974.jpg 203,70,440,560,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_975.jpg 0,0,823,748,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_976.jpg 100,110,574,344,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_977.jpg 42,0,176,261,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_979.jpg 273,161,349,230,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_980.jpg 600,358,821,572,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_981.jpg 104,0,231,458,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_982.jpg 176,24,477,732,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_983.jpg 39,213,657,797,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_984.jpg 223,29,405,495,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_985.jpg 144,44,498,784,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_986.jpg 500,178,647,309,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_988.jpg 124,169,316,189,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_990.jpg 181,177,210,250,6 144,70,195,109,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_991.jpg 158,1,380,328,6 82,2,206,117,6 1,99,68,204,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_992.jpg 254,25,314,117,6 124,27,243,193,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_993.jpg 80,132,649,460,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_995.jpg 115,86,156,104,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_996.jpg 4,14,232,195,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_997.jpg 49,35,154,78,6 26,101,154,156,6 130,2,180,27,6
+E:\document\syn\data\graduation-project\YOLO_DSD/VOCdevkit/JPEGImages/img_998.jpg 58,56,164,122,6
