@@ -15,7 +15,7 @@ from yolo_training import Generator, YOLOLoss
 from config import Config
 from dataloader import YoloDataset, yolo_dataset_collate
 
-from tensorboardX import SummaryWriter
+#from tensorboardX import SummaryWriter
 
 
 def get_lr(optimizer):#优化器，设置每个参数组的学习率
@@ -114,7 +114,8 @@ if __name__ == "__main__":
     log=[]#使用log记录loss
 
 
-    Cuda = True
+    #Cuda = True
+    Cuda = False
 
     #writer=SummaryWriter(log_dir='view',comment='Linear')；图形化loss
 
@@ -124,7 +125,7 @@ if __name__ == "__main__":
 
     model = YoloBody(Config)#引用神经网络模型
 
-    model_path = "model_data/train.pth"#预训练权重
+    model_path = "./data/model_data/train.pth"#预训练权重
     print('Loading weights into state dict...')
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')#GPU或CPU选择
     model_dict = model.state_dict()#创建一个字典
@@ -135,7 +136,7 @@ if __name__ == "__main__":
     print('Finished!')
 
     net = model.train()#训练模式
-    #print(net)
+    print(net)
 
     if Cuda:#GPU-cuda
         net = torch.nn.DataParallel(model)#数据并行处理
