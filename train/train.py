@@ -151,7 +151,7 @@ if __name__ == "__main__":
         
 
 
-    annotation_path = 'train.txt'#图片所在路径
+    annotation_path = './procedure/txt/train.txt'#图片所在路径
   
     val_split = 0.1#验证集占比
     with open(annotation_path,encoding='utf-8') as f:
