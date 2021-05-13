@@ -57,7 +57,7 @@ def fit_ont_epoch(net,yolo_losses,epoch,epoch_size,epoch_size_val,gen,genval,Epo
             optimizer.step()
             
             #损失可视化
-            writer.add_scalar('训练损失值',loss,epoch)
+#            writer.add_scalar('训练损失值',loss,epoch)
 
             total_loss += loss.item()
 
@@ -137,7 +137,7 @@ if __name__ == "__main__":
     print('Finished!')
 
     net = model.train()
-    print(net)
+    #print(net)
 
     if Cuda:
         net = torch.nn.DataParallel(model)#数据并行处理
@@ -151,7 +151,8 @@ if __name__ == "__main__":
         
 
 
-    annotation_path = './procedure/txt/train.txt'#图片所在路径
+    #annotation_path = './data/train.txt'#图片所在路径
+    annotation_path = './data/train_relative.txt'#图片所在路径
 
     val_split = 0.1#验证集占比
     with open(annotation_path,encoding='utf-8') as f:

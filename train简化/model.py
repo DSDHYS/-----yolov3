@@ -99,10 +99,18 @@ class DarkNet53(nn.Module):
             DownSampleLayer(128,256,8),
             #make_layers(256, 8)
         )
+        self.up_52=nn.Sequential(
+            ConvolutionalLayer(256,128,1,1,0),
+            UpSampleLayer(),
+            )#上采样,
         self.RB_26=nn.Sequential(
             DownSampleLayer(256, 512,8),
             #make_layers(512,8)
         )
+        self.up_26=nn.Sequential(
+            ConvolutionalLayer(512,256,1,1,0),
+            UpSampleLayer(),
+            )#上采样,
         self.RB_13=nn.Sequential(
             DownSampleLayer(512,1024,4),
             #make_layers(1024,4),
@@ -129,14 +137,8 @@ class DarkNet53(nn.Module):
             nn.Conv2d(256,36,1,1,0)#33=(5+检测类数)*3
         )
 
-        self.up_52=nn.Sequential(
-            ConvolutionalLayer(256,128,1,1,0),
-            UpSampleLayer(),
-            )#上采样,
-        self.up_26=nn.Sequential(
-            ConvolutionalLayer(512,256,1,1,0),
-            UpSampleLayer(),
-            )#上采样,
+
+
         
         # 进行权值初始化
         for m in self.modules():

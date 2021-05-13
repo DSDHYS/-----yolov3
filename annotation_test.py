@@ -32,9 +32,9 @@ wd = getcwd()
 
 for image_set in sets:
     image_ids = open('./data/VOCdevkit/ImageSets_test/%s.txt'%(image_set),encoding='utf-8').read().strip().split()
-    list_file = open('%s.txt'%(image_set), 'w',encoding='utf-8')
+    list_file = open('./data/%s.txt'%(image_set), 'w',encoding='utf-8')
     for image_id in image_ids:
-        list_file.write('%s/VOCdevkit/JPEGImages_test/%s.jpg'%(wd, image_id))
+        list_file.write('%s/data/VOCdevkit/JPEGImages_test/%s.jpg'%(wd, image_id))
         convert_annotation(image_id, list_file)
         list_file.write('\n')
     list_file.close()
