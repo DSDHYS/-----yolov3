@@ -137,7 +137,7 @@ if __name__ == "__main__":
     print('Finished!')
 
     net = model.train()
-    #print(net)
+    print(net)
 
     if Cuda:
         net = torch.nn.DataParallel(model)#数据并行处理

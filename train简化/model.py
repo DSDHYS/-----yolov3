@@ -116,13 +116,13 @@ class DarkNet53(nn.Module):
             #make_layers(1024,4),
         )
         self.contact_13=nn.Sequential(
-            Conv2d_Block_5L(1024,512)
+            Conv2d_Block_5L(1024,1024,512)
         )
         self.contact_26=nn.Sequential(
-            Conv2d_Block_5L(768,256)
+            Conv2d_Block_5L(768,512,256)
         )
         self.contact_52=nn.Sequential(
-            Conv2d_Block_5L(384,128)
+            Conv2d_Block_5L(384,256,128)
         )
         self.out_13=nn.Sequential(
             ConvolutionalLayer(512,1024,3,1,1),
@@ -173,10 +173,10 @@ class DarkNet53(nn.Module):
 
 
 class Conv2d_Block_5L(nn.Module):#6个conv+bn+leakyReLU
-    def __init__(self,in_channels,out_channels):
+    def __init__(self,first_in_channels,in_channels,out_channels):
         super(Conv2d_Block_5L, self).__init__()
         self.Conv=nn.Sequential(
-            ConvolutionalLayer(in_channels,out_channels,1,1,0),
+            ConvolutionalLayer(first_in_channels,out_channels,1,1,0),
             ConvolutionalLayer(out_channels,in_channels,3,1,1),
             ConvolutionalLayer(in_channels,out_channels,1,1,0),
             ConvolutionalLayer(out_channels,in_channels,3,1,1),
